@@ -17,12 +17,6 @@ Representación interactiva / visual del **sistema periódico de los elementos**
 
 ---
 
-## Demo / Vista previa
-
-_(Aquí puedes insertar una imagen o capturas de la tabla periódica en acción, o un enlace al despliegue si existe)_
-
----
-
 ## Características
 
 - Muestra todos los elementos químicos con sus propiedades básicas (símbolo, número atómico, masa atómica, etc.)  
@@ -38,8 +32,7 @@ _(Aquí puedes insertar una imagen o capturas de la tabla periódica en acción,
 - **React**  
 - **TypeScript**  
 - **Vite**  
-- **ESLint** (configuración personalizada)  
-- CSS / estilos (o algún preprocesador si lo usas)  
+- **ESLint** (configuración personalizada)
 
 ---
 
